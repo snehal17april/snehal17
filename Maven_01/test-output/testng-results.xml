@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="5" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-10-15T18:42:08 IST" name="Default suite" finished-at="2024-10-15T18:42:08 IST" duration-ms="64">
+    <groups>
+    </groups>
+    <test started-at="2024-10-15T18:42:08 IST" name="Default test" finished-at="2024-10-15T18:42:08 IST" duration-ms="64">
+      <class name="practice_testNG.Multiple_Parameter">
+        <test-method signature="ghi()[pri:0, instance:practice_testNG.Multiple_Parameter@5b8dfcc1]" started-at="2024-10-15T18:42:08 IST" name="ghi" description="ghi method invoked" finished-at="2024-10-15T18:42:08 IST" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ghi -->
+        <test-method signature="ghi()[pri:0, instance:practice_testNG.Multiple_Parameter@5b8dfcc1]" started-at="2024-10-15T18:42:08 IST" name="ghi" description="ghi method invoked" finished-at="2024-10-15T18:42:08 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ghi -->
+        <test-method signature="abc()[pri:1, instance:practice_testNG.Multiple_Parameter@5b8dfcc1]" started-at="2024-10-15T18:42:08 IST" name="abc" description="abc method executed" finished-at="2024-10-15T18:42:08 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- abc -->
+        <test-method signature="jkl()[pri:2, instance:practice_testNG.Multiple_Parameter@5b8dfcc1]" started-at="2024-10-15T18:42:08 IST" name="jkl" finished-at="2024-10-15T18:42:08 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- jkl -->
+      </class> <!-- practice_testNG.Multiple_Parameter -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
